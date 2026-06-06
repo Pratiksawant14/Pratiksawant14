@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm currently working on Rooted AI project . <br>And planning to build something new architecture to solve <br>the problem of context ammensia . where we can interact with Chat UI . <br>In recently I also build the Smart CA application which tracks the  transaction record <br>taken from users as a invoice gives the explainable insights and most importanat it finds the pattern in irreugular income  <br>
+Aspiring AI Engineer with hands-on experience building production-grade NLP systems, LLM
+pipelines, and RAG architectures. Proficient in fine-tuning transformer models via PEFT/LoRA,
+designing vector-database retrieval systems, and developing multi-agent conversational AI.
+Passionate about advancing the state-of-the-art in language understanding and eager to contribute to
+enterprise AI teams solving real-world problems. <br>
 
 
 ## 🌐 Socials:
